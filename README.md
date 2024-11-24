@@ -13,7 +13,7 @@ MIT
 
 Author Information
 ------------------
-Written by [A.J. Scgalski](https://github.com/AJ1701). Please see my GitHub account for my contact email.
+Written by [A.J. Scgalski](https://github.com/ajski1701). Please see my GitHub account for my contact email.
 
 Contributing
 ------------
