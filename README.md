@@ -18,4 +18,4 @@ Written by [A.J. Scgalski](https://github.com/AJ1701). Please see my GitHub acco
 Contributing
 ------------
 
-Submit issues and pull requests on GitHub at [https://github.com/AJ1701/install-ansible-raspberry-pi-centos](https://github.com/AJ1701/install-ansible-raspberry-pi-centos).
+Submit issues and pull requests on GitHub at [https://github.com/ajski1701/install-ansible-raspberry-pi-centos](https://github.com/ajski1701/install-ansible-raspberry-pi-centos).
